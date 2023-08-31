@@ -1,6 +1,7 @@
-### Hi there 👋
-<img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=TheoOdawara&show_icons=true&theme=great=gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180cm" src="https://github=readme-stats.vercel.app/api/top-langs/?username=TheoOdawara&layout=compact&langs_count=16&theme=great-gatsby"/>
+### Hello devs and curious
+<div>
+<img height="180cm"src="https://github-readme-stats.vercel.app/api?username=TheoOdawara&show_icons=true&theme=radical"/>
+<img aling="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&lanfs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
