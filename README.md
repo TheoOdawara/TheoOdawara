@@ -5,9 +5,7 @@
 </div>
 <br>
  Codding is the best way to have fun
-<div
-  style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="">
+<div style="display: flex; justify-content: space-between;"> <br>
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
