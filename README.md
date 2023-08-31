@@ -4,6 +4,24 @@
 <img aling="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&lanfs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+ Codding is the best way to have fun
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="GitGif.gif">
+  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+## Redes sociais
+<div>
+  <a href = "mailto: theoodawara@gmail.com">
+    <img width="30" src="gmailImg.svg">
+  </a>
+  <a href = "https://www.linkedin.com/in/theo-odawara-651bb2274/">
+    <img width="25" src="LinkedinImg.svg">
+  </a>
+  
+  </a>
+</div>
 
 <!--
 **TheoOdawara/TheoOdawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
