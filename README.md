@@ -1,7 +1,8 @@
 ### Hello devs and curious
 <div>
 <img height="180cm"src="https://github-readme-stats.vercel.app/api?username=TheoOdawara&show_icons=true&theme=radical"/>
-<img aling="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&lanfs_count=16&theme=great-gatsby"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinhomsf&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 <br>
 
