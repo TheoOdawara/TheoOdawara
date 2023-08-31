@@ -13,13 +13,11 @@
 
 ## Redes sociais
 <div>
-  <a href = "mailto: theoodawara@gmail.com">
-    <img width="30" src="gmailImg.svg">
-  </a>
   <a href = "https://www.linkedin.com/in/theo-odawara-651bb2274/">
-    <img width="25" src="LinkedinImg.svg">
-  </a>
-  
+  <img width="30" src="linkedin.svg">
+    </a>
+  <a href = "mailto: theoodawara@gmail.com">
+    <img width="30" src="gmail.svg">
   </a>
 </div>
 
