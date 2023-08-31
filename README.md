@@ -4,11 +4,17 @@
 <img aling="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&lanfs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+
  Codding is the best way to have fun
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="giphy.gif">
+    <h1 align="center">Linguagens de maior interesse</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+   </div>
+    
 
 ## Redes sociais
 <div>
