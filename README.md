@@ -12,7 +12,7 @@
     <img align="left" height="250" alt="coding-time" src="giphy.gif">
     <h1 align="center">Linguagens de maior interesse</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 
    </div>
     
