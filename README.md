@@ -1,43 +1,56 @@
-### Hello devs and curious
-<div>
- <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=TheoOdawara&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoOdawara&layout=compact&langs_count=16&theme=great-gatsby"/>
+<h1 align="center">Hey there, devs and curious minds 👋</h1>
 
-</div>
-<br>
+<p align="center">
+I'm <strong>Theo</strong>, a tech enthusiast from Brazil 🇧🇷 with a background in IT support, hardware maintenance, and network infrastructure.<br>
+Currently shifting my career path into <strong>Databases</strong>, <strong>Data Engineering</strong>, and <strong>Backend Development</strong>.
+</p>
 
- Codding is the best way to have fun
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="giphy.gif">
-    <h1 align="center">Linguagens de maior interesse</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-   </div>
-    
+---
 
-## Redes sociais
-<div>
-  <a href = "https://www.linkedin.com/in/theo-odawara-651bb2274/">
-  <img width="30" src="linkedin.svg">
-    </a>
-  <a href = "mailto: theoodawara@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
-</div>
+### 👨‍💻 About Me
 
-<!--
-**TheoOdawara/TheoOdawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying **Computer Engineering**
+- 🛠️ Experienced in **IT Support, Windows, LAN networks and hardware troubleshooting**
+- 🐍 Learning **Python, SQL, PostgreSQL, Node.js**
+- 🎯 Aspiring **DBA** and backend developer focused on real-world problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sqlite)
+![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheoOdawara)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theoodawara@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TheoOdawara&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoOdawara&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### ✨ Motto
+
+> *"Coding is the best way to have fun."*
+
+---
+
