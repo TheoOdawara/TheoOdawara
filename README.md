@@ -29,6 +29,8 @@ Currently shifting my career path into <strong>Databases</strong>, <strong>Data 
 ![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
 
 ---
 
