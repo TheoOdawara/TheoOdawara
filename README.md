@@ -36,7 +36,7 @@ Currently shifting my career path into <strong>Databases</strong>, <strong>Data 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheoOdawara)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/theo-christiano-da-silva-odawara-651bb2274)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theoodawara@gmail.com)
 
 ---
