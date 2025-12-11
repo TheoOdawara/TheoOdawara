@@ -1,17 +1,17 @@
 <div align="right">
-  <a href="README-pt.md">
-    <img src="https://img.shields.io/badge/Ler%20em-Portugu%C3%AAs-green?style=for-the-badge" alt="Ler em Português">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge" alt="Read in English">
   </a>
 </div>
 
-<h1 align="center">Hey there, devs! 👋 I'm Theo</h1>
+<h1 align="center">Olá, devs! 👋 Eu sou o Theo</h1>
 
 <p align="center">
-  <strong>Backend Developer @ EDS | Computer Engineering Student</strong>
+  <strong>Backend Developer @ EDS | Estudante de Engenharia da Computação</strong>
 </p>
 
 <p align="center">
-  I am a developer focused on solving real-world problems through efficient code and scalable architectures. With a solid background in IT Infrastructure and Support, I now dedicate my career to <strong>Backend Development</strong>, <strong>Data Engineering</strong>, and <strong>DevOps</strong>.
+  Sou um desenvolvedor focado em resolver problemas reais através de código eficiente e arquiteturas escaláveis. Com um background sólido em infraestrutura e suporte, hoje dedico minha carreira ao <strong>Desenvolvimento Backend</strong>, <strong>Engenharia de Dados</strong> e <strong>DevOps</strong>.
 </p>
 
 <p align="center">
@@ -20,23 +20,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
-- 💼 Currently working as a **Backend Developer at EDS** (since Nov/2025).
-- 🎓 **Computer Engineering** Undergraduate (UVA).
-- 🚀 Hands-on experience with **Docker, Automation (n8n), RESTful APIs, and Databases**.
-- 🛠️ Strong history in **troubleshooting**, leveraging my technical background in IT Support and Networks.
-- 🇧🇷 Based in Rio de Janeiro, Brazil.
+- 💼 Atualmente trabalho como **Backend Developer na EDS** (desde Nov/2025).
+- 🎓 Graduando em **Engenharia da Computação** (UVA).
+- 🚀 Experiência prática com **Docker, Automação (n8n), APIs RESTful e Bancos de Dados**.
+- 🛠️ Tenho um histórico forte em **resolução de problemas**, vindo de uma base técnica de Suporte de TI e Redes.
+- 🇬🇧 Inglês Avançado (Leitura/Escrita).
 
 ---
 
-### 🚀 Experience & Recent Projects
+### 🚀 Experiência e Projetos Recentes
 
-My journey involves system migrations, process automation, and IoT architecture:
+Minha jornada inclui migrações de sistemas, automação de processos e arquitetura IoT:
 
-* **Backend & Automation:** Developing chatbots with **n8n**, integrating **Redis** caching, and orchestrating **Docker** containers.
-* [cite_start]**Full Stack & Cloud:** Application migration to **VPS**, **Supabase (BaaS)** configuration, and frontend development with **React.js/Tailwind CSS**[cite: 13, 14, 16, 17].
-* [cite_start]**IoT & Engineering:** Developed an end-to-end facial recognition system using **Python (OpenCV)**, **Node.js**, **MQTT**, and **ESP32** microcontrollers[cite: 25, 27, 28].
+* **Backend & Automação:** Desenvolvimento de chatbots com **n8n**, integração com **Redis** e orquestração de containers **Docker**.
+* **Full Stack & Cloud:** Migração de aplicações para **VPS**, configuração de **Supabase (BaaS)** e desenvolvimento de interfaces com **React.js/Tailwind CSS**.
+* **IoT & Engenharia:** Desenvolvimento de sistema de reconhecimento facial "ponta-a-ponta" utilizando **Python (OpenCV)**, **Node.js**, **MQTT** e microcontroladores **ESP32**.
 
 ---
 
@@ -64,7 +64,7 @@ My journey involves system migrations, process automation, and IoT architecture:
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-christiano-da-silva-odawara-651bb2274)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theoodawara@gmail.com)
