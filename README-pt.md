@@ -2,28 +2,30 @@
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=8B949E" alt=""/>
 
-Minha principal linguagem de programação é Rust. Gosto de sistemas que se mantêm corretos sob pressão — seguros em memória, previsíveis, rápidos.
+Desenvolvedor backend. Construo APIs REST com **NestJS e TypeScript** — PostgreSQL com TypeORM, Redis, RabbitMQ, Docker, deploy com Coolify e Traefik — e estou levando cada vez mais desse trabalho para **Rust**.
 
-Atualmente estou construindo o [Kiri](https://github.com/TheoOdawara/Kiri), um harness de terminal para agentes de código: sandbox em nível de sistema operacional no Windows, macOS e Linux, um loop de tool-calls em streaming.
+Co-fundador da [ATNexusLab](https://github.com/ATNexusLab) com o Alex, onde construímos produtos de ponta a ponta.
 
-Também sou co-fundador da [ATNexusLab](https://github.com/ATNexusLab), ao lado do Alex.
+### Projetos
 
-Antes disso: chamada por reconhecimento facial numa ESP32-CAM, e trabalho freelance consertando codebases que outras ferramentas quebraram.
-
-Backend @ EDS · Engenharia da Computação @ UVA · Rio de Janeiro
+- [**clinicore**](https://github.com/TheoOdawara/clinicore) — SaaS para clínicas odontológicas. API de autenticação completa, em migração de NestJS para Rust (axum + sqlx) sem mudar o contrato HTTP.
+- [**Kiri**](https://github.com/TheoOdawara/Kiri) — harness assíncrono em Rust para agentes de código: loop de tool-calls em streaming, sandbox em nível de sistema operacional no Windows, macOS e Linux.
+- [**Vultra**](https://github.com/TheoOdawara/Vultra) — chamada por reconhecimento facial com embeddings vetoriais, em conformidade com a LGPD. Iniciação científica.
 
 ### Stack
 
-![Rust](https://img.shields.io/badge/Rust-8B949E?style=flat-square&logo=rust&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-8B949E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8B949E?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8B949E?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8B949E?style=flat-square&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B949E?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8B949E?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-8B949E?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-8B949E?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B949E?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B949E?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B949E?style=flat-square&logo=openjdk&logoColor=white)
 
-Foco: harnesses de código agêntico · MLOps · programação de sistemas.
+Engenharia da Computação @ UVA · Rio de Janeiro · Aberto a vagas backend remotas
 
 [![Email](https://img.shields.io/badge/Email-8B949E?style=flat-square&logo=gmail&logoColor=white)](mailto:theoodawara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B949E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-christiano-da-silva-odawara-651bb2274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B949E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoodawara)
 
 [English](README.md)
